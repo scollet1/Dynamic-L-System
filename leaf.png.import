@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/leaf.png-0e9d76829832ff594866ce6c2825e3d2.image"
+
+[deps]
+
+source_file="res://leaf.png"
+dest_files=[ "res://.import/leaf.png-0e9d76829832ff594866ce6c2825e3d2.image" ]
+
+[params]
+
